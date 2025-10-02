@@ -50,7 +50,7 @@
     "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
   },
   "resources/css/app.css": {
-    "file": "assets/app-993e28e5.css",
+    "file": "assets/app-5177af1a.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
@@ -155,7 +155,7 @@
       "resources/js/modules/search.js",
       "resources/js/modules/soundtrackAlbum.js"
     ],
-    "file": "assets/script-c5ba49b2.js",
+    "file": "assets/script-bfda5dd4.js",
     "isEntry": true,
     "src": "resources/js/script.js"
   }
