@@ -51,79 +51,69 @@
     "src": "resources/js/bootstrap.js"
   },
   "resources/js/modules/hashHandler.js": {
-    "file": "assets/hashHandler-c9c39e44.js",
+    "file": "assets/hashHandler-e5553f84.js",
     "imports": [
-      "resources/js/modules/youtubeLazyLoad.js",
+      "resources/js/modules/soundtrackAlbum.js",
       "_vendor_jquery-78811666.js"
     ],
     "isEntry": true,
     "src": "resources/js/modules/hashHandler.js"
   },
   "resources/js/modules/imageHover.js": {
-    "file": "assets/imageHover-28fb3069.js",
+    "file": "assets/imageHover-2218e35f.js",
     "imports": [
-      "resources/js/modules/youtubeLazyLoad.js",
+      "resources/js/modules/soundtrackAlbum.js",
       "_vendor_jquery-78811666.js"
     ],
     "isEntry": true,
     "src": "resources/js/modules/imageHover.js"
   },
   "resources/js/modules/menuToggle.js": {
-    "file": "assets/menuToggle-76752923.js",
+    "file": "assets/menuToggle-2866d6d7.js",
     "imports": [
-      "resources/js/modules/youtubeLazyLoad.js",
+      "resources/js/modules/soundtrackAlbum.js",
       "_vendor_jquery-78811666.js"
     ],
     "isEntry": true,
     "src": "resources/js/modules/menuToggle.js"
   },
   "resources/js/modules/scrollTabs.js": {
-    "file": "assets/scrollTabs-5e204656.js",
+    "file": "assets/scrollTabs-53f5f955.js",
     "imports": [
       "_vendor_jquery-78811666.js",
-      "resources/js/modules/youtubeLazyLoad.js"
+      "resources/js/modules/soundtrackAlbum.js"
     ],
     "isEntry": true,
     "src": "resources/js/modules/scrollTabs.js"
   },
   "resources/js/modules/search.js": {
-    "file": "assets/search-6d805712.js",
+    "file": "assets/search-e94468f8.js",
     "imports": [
-      "resources/js/modules/youtubeLazyLoad.js",
+      "resources/js/modules/soundtrackAlbum.js",
       "_vendor_jquery-78811666.js"
     ],
     "isEntry": true,
     "src": "resources/js/modules/search.js"
   },
   "resources/js/modules/soundtrackAlbum.js": {
-    "file": "assets/soundtrackAlbum-776caa6d.js",
-    "imports": [
-      "resources/js/modules/youtubeLazyLoad.js",
-      "_vendor_jquery-78811666.js"
-    ],
-    "isEntry": true,
-    "src": "resources/js/modules/soundtrackAlbum.js"
-  },
-  "resources/js/modules/youtubeLazyLoad.js": {
-    "file": "assets/youtubeLazyLoad-03a2b470.js",
+    "file": "assets/soundtrackAlbum-a97565f2.js",
     "imports": [
       "_vendor_jquery-78811666.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
-    "src": "resources/js/modules/youtubeLazyLoad.js"
+    "src": "resources/js/modules/soundtrackAlbum.js"
   },
   "resources/js/script.js": {
     "dynamicImports": [
       "resources/js/modules/menuToggle.js",
       "resources/js/modules/imageHover.js",
       "resources/js/modules/scrollTabs.js",
-      "resources/js/modules/youtubeLazyLoad.js",
       "resources/js/modules/hashHandler.js",
       "resources/js/modules/search.js",
       "resources/js/modules/soundtrackAlbum.js"
     ],
-    "file": "assets/script-638a3886.js",
+    "file": "assets/script-375a0615.js",
     "isEntry": true,
     "src": "resources/js/script.js"
   }
