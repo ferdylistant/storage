@@ -1,20 +1,20 @@
 {
-  "_vendor-4a7a75c2.js": {
-    "file": "assets/vendor-4a7a75c2.js"
+  "_vendor-da11cf31.js": {
+    "file": "assets/vendor-da11cf31.js"
   },
-  "_vendor_bootstrap-3d4fe766.js": {
-    "file": "assets/vendor_bootstrap-3d4fe766.js",
+  "_vendor_bootstrap-f1c09396.js": {
+    "file": "assets/vendor_bootstrap-f1c09396.js",
     "imports": [
-      "_vendor-4a7a75c2.js"
+      "_vendor-da11cf31.js"
     ]
   },
-  "_vendor_jquery-78811666.js": {
-    "file": "assets/vendor_jquery-78811666.js"
+  "_vendor_jquery-354d61cf.js": {
+    "file": "assets/vendor_jquery-354d61cf.js"
   },
-  "_vendor_lodash-2a07589e.js": {
-    "file": "assets/vendor_lodash-2a07589e.js",
+  "_vendor_lodash-1050e908.js": {
+    "file": "assets/vendor_lodash-1050e908.js",
     "imports": [
-      "_vendor_jquery-78811666.js"
+      "_vendor_jquery-354d61cf.js"
     ]
   },
   "resources/css/app.css": {
@@ -28,77 +28,77 @@
     "src": "resources/css/style.css"
   },
   "resources/js/app.js": {
-    "file": "assets/app-0aaa073b.js",
+    "file": "assets/app-022aa1d1.js",
     "imports": [
       "resources/js/bootstrap.js",
-      "_vendor_lodash-2a07589e.js",
-      "_vendor-4a7a75c2.js",
-      "_vendor_jquery-78811666.js",
-      "_vendor_bootstrap-3d4fe766.js"
+      "_vendor_lodash-1050e908.js",
+      "_vendor-da11cf31.js",
+      "_vendor_jquery-354d61cf.js",
+      "_vendor_bootstrap-f1c09396.js"
     ],
     "isEntry": true,
     "src": "resources/js/app.js"
   },
   "resources/js/bootstrap.js": {
-    "file": "assets/bootstrap-5fbfbfd3.js",
+    "file": "assets/bootstrap-32efe9d6.js",
     "imports": [
-      "_vendor_lodash-2a07589e.js",
-      "_vendor-4a7a75c2.js",
-      "_vendor_jquery-78811666.js",
-      "_vendor_bootstrap-3d4fe766.js"
+      "_vendor_lodash-1050e908.js",
+      "_vendor-da11cf31.js",
+      "_vendor_jquery-354d61cf.js",
+      "_vendor_bootstrap-f1c09396.js"
     ],
     "isEntry": true,
     "src": "resources/js/bootstrap.js"
   },
   "resources/js/modules/hashHandler.js": {
-    "file": "assets/hashHandler-e5553f84.js",
+    "file": "assets/hashHandler-e060deaf.js",
     "imports": [
       "resources/js/modules/soundtrackAlbum.js",
-      "_vendor_jquery-78811666.js"
+      "_vendor_jquery-354d61cf.js"
     ],
     "isEntry": true,
     "src": "resources/js/modules/hashHandler.js"
   },
   "resources/js/modules/imageHover.js": {
-    "file": "assets/imageHover-2218e35f.js",
+    "file": "assets/imageHover-9d61218e.js",
     "imports": [
       "resources/js/modules/soundtrackAlbum.js",
-      "_vendor_jquery-78811666.js"
+      "_vendor_jquery-354d61cf.js"
     ],
     "isEntry": true,
     "src": "resources/js/modules/imageHover.js"
   },
   "resources/js/modules/menuToggle.js": {
-    "file": "assets/menuToggle-2866d6d7.js",
+    "file": "assets/menuToggle-3c33579a.js",
     "imports": [
       "resources/js/modules/soundtrackAlbum.js",
-      "_vendor_jquery-78811666.js"
+      "_vendor_jquery-354d61cf.js"
     ],
     "isEntry": true,
     "src": "resources/js/modules/menuToggle.js"
   },
   "resources/js/modules/scrollTabs.js": {
-    "file": "assets/scrollTabs-53f5f955.js",
+    "file": "assets/scrollTabs-e98b9b05.js",
     "imports": [
-      "_vendor_jquery-78811666.js",
+      "_vendor_jquery-354d61cf.js",
       "resources/js/modules/soundtrackAlbum.js"
     ],
     "isEntry": true,
     "src": "resources/js/modules/scrollTabs.js"
   },
   "resources/js/modules/search.js": {
-    "file": "assets/search-e94468f8.js",
+    "file": "assets/search-b4e9b0da.js",
     "imports": [
       "resources/js/modules/soundtrackAlbum.js",
-      "_vendor_jquery-78811666.js"
+      "_vendor_jquery-354d61cf.js"
     ],
     "isEntry": true,
     "src": "resources/js/modules/search.js"
   },
   "resources/js/modules/soundtrackAlbum.js": {
-    "file": "assets/soundtrackAlbum-a97565f2.js",
+    "file": "assets/soundtrackAlbum-b5eeaa9e.js",
     "imports": [
-      "_vendor_jquery-78811666.js"
+      "_vendor_jquery-354d61cf.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -113,7 +113,7 @@
       "resources/js/modules/search.js",
       "resources/js/modules/soundtrackAlbum.js"
     ],
-    "file": "assets/script-375a0615.js",
+    "file": "assets/script-24c0c955.js",
     "isEntry": true,
     "src": "resources/js/script.js"
   }
