@@ -2,7 +2,7 @@
 set -euo pipefail
 
 SOURCE_DIR="./public/build"
-DESTINATION="s3://${AWS_S3_BUCKET_NAME}/mm/${DEPLOYED_VERSION}/build/"
+DESTINATION="s3://${AWS_S3_BUCKET_NAME}/mm/${DEPLOYED_VERSION}/build"
 
 upload_file() {
   local file="$1"
