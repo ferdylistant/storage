@@ -51,7 +51,7 @@
     "src": "resources/js/bootstrap.js"
   },
   "resources/js/modules/hashHandler.js": {
-    "file": "assets/hashHandler-5c09a2b1.js",
+    "file": "assets/hashHandler-22c442db.js",
     "imports": [
       "resources/js/modules/soundtrackAlbum.js",
       "_vendor_jquery-354d61cf.js"
@@ -60,7 +60,7 @@
     "src": "resources/js/modules/hashHandler.js"
   },
   "resources/js/modules/imageHover.js": {
-    "file": "assets/imageHover-3f884729.js",
+    "file": "assets/imageHover-eb7083af.js",
     "imports": [
       "resources/js/modules/soundtrackAlbum.js",
       "_vendor_jquery-354d61cf.js"
@@ -69,7 +69,7 @@
     "src": "resources/js/modules/imageHover.js"
   },
   "resources/js/modules/menuToggle.js": {
-    "file": "assets/menuToggle-b9b65741.js",
+    "file": "assets/menuToggle-5f7afc14.js",
     "imports": [
       "resources/js/modules/soundtrackAlbum.js",
       "_vendor_jquery-354d61cf.js"
@@ -78,7 +78,7 @@
     "src": "resources/js/modules/menuToggle.js"
   },
   "resources/js/modules/scrollTabs.js": {
-    "file": "assets/scrollTabs-3e87e060.js",
+    "file": "assets/scrollTabs-b30b0d69.js",
     "imports": [
       "_vendor_jquery-354d61cf.js",
       "resources/js/modules/soundtrackAlbum.js"
@@ -87,7 +87,7 @@
     "src": "resources/js/modules/scrollTabs.js"
   },
   "resources/js/modules/search.js": {
-    "file": "assets/search-44fab002.js",
+    "file": "assets/search-e9ab3d8c.js",
     "imports": [
       "resources/js/modules/soundtrackAlbum.js",
       "_vendor_jquery-354d61cf.js"
@@ -96,7 +96,7 @@
     "src": "resources/js/modules/search.js"
   },
   "resources/js/modules/soundtrackAlbum.js": {
-    "file": "assets/soundtrackAlbum-214c8765.js",
+    "file": "assets/soundtrackAlbum-9275e959.js",
     "imports": [
       "_vendor_jquery-354d61cf.js"
     ],
@@ -113,7 +113,7 @@
       "resources/js/modules/search.js",
       "resources/js/modules/soundtrackAlbum.js"
     ],
-    "file": "assets/script-420ba258.js",
+    "file": "assets/script-07468d8a.js",
     "isEntry": true,
     "src": "resources/js/script.js"
   }
