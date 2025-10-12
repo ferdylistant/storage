@@ -63,7 +63,7 @@
     "src": "resources/js/modules/imageHover.js"
   },
   "resources/js/modules/menuToggle.js": {
-    "file": "assets/menuToggle-e387f95e.js",
+    "file": "assets/menuToggle-ed592994.js",
     "isDynamicEntry": true,
     "isEntry": true,
     "src": "resources/js/modules/menuToggle.js"
@@ -91,10 +91,7 @@
       "resources/js/modules/hashHandler.js",
       "resources/js/modules/search.js"
     ],
-    "file": "assets/script-ab1f5953.js",
-    "imports": [
-      "resources/js/modules/menuToggle.js"
-    ],
+    "file": "assets/script-aa9a8582.js",
     "isEntry": true,
     "src": "resources/js/script.js"
   }
