@@ -18,12 +18,12 @@
     ]
   },
   "resources/css/app.css": {
-    "file": "assets/app-78d33eb3.css",
+    "file": "assets/app-d1a5abd0.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
   "resources/css/style.css": {
-    "file": "assets/style-98d84618.css",
+    "file": "assets/style-3dff3864.css",
     "isEntry": true,
     "src": "resources/css/style.css"
   },
