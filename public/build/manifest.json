@@ -78,7 +78,7 @@
     "src": "resources/js/modules/scrollTabs.js"
   },
   "resources/js/modules/search.js": {
-    "file": "assets/search-e56cf171.js",
+    "file": "assets/search-907599c8.js",
     "isDynamicEntry": true,
     "isEntry": true,
     "src": "resources/js/modules/search.js"
@@ -91,7 +91,7 @@
       "resources/js/modules/hashHandler.js",
       "resources/js/modules/search.js"
     ],
-    "file": "assets/script-8f0efd7f.js",
+    "file": "assets/script-ea0141ea.js",
     "isEntry": true,
     "src": "resources/js/script.js"
   }
