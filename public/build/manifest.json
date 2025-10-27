@@ -28,7 +28,7 @@
     "src": "resources/css/style.css"
   },
   "resources/js/app.js": {
-    "file": "assets/app-1b763fe9.js",
+    "file": "assets/app-da467817.js",
     "imports": [
       "resources/js/bootstrap.js",
       "_vendor_lodash-a3de7232.js",
@@ -40,7 +40,7 @@
     "src": "resources/js/app.js"
   },
   "resources/js/bootstrap.js": {
-    "file": "assets/bootstrap-0328b386.js",
+    "file": "assets/bootstrap-fcf5a00c.js",
     "imports": [
       "_vendor_lodash-a3de7232.js",
       "_vendor-748890e5.js",
@@ -49,6 +49,21 @@
     ],
     "isEntry": true,
     "src": "resources/js/bootstrap.js"
+  },
+  "resources/js/modules/artifacts.js": {
+    "file": "assets/artifacts-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/modules/artifacts.js"
+  },
+  "resources/js/modules/discover.js": {
+    "file": "assets/discover-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/modules/discover.js"
+  },
+  "resources/js/modules/gallery.js": {
+    "file": "assets/gallery-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/modules/gallery.js"
   },
   "resources/js/modules/hashHandler.js": {
     "file": "assets/hashHandler-70146484.js",
@@ -63,10 +78,15 @@
     "src": "resources/js/modules/imageHover.js"
   },
   "resources/js/modules/menuToggle.js": {
-    "file": "assets/menuToggle-4167ed50.js",
+    "file": "assets/menuToggle-b778d334.js",
     "isDynamicEntry": true,
     "isEntry": true,
     "src": "resources/js/modules/menuToggle.js"
+  },
+  "resources/js/modules/merch.js": {
+    "file": "assets/merch-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/modules/merch.js"
   },
   "resources/js/modules/scrollTabs.js": {
     "file": "assets/scrollTabs-b4ca75a7.js",
@@ -83,6 +103,26 @@
     "isEntry": true,
     "src": "resources/js/modules/search.js"
   },
+  "resources/js/modules/shows.js": {
+    "file": "assets/shows-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/modules/shows.js"
+  },
+  "resources/js/modules/soundtrackAlbum.js": {
+    "file": "assets/soundtrackAlbum-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/modules/soundtrackAlbum.js"
+  },
+  "resources/js/modules/visuals.js": {
+    "file": "assets/visuals-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/modules/visuals.js"
+  },
+  "resources/js/modules/youtubePlayers.js": {
+    "file": "assets/youtubePlayers-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/modules/youtubePlayers.js"
+  },
   "resources/js/script.js": {
     "dynamicImports": [
       "resources/js/modules/menuToggle.js",
@@ -91,7 +131,7 @@
       "resources/js/modules/hashHandler.js",
       "resources/js/modules/search.js"
     ],
-    "file": "assets/script-5d60040b.js",
+    "file": "assets/script-66fbcf2f.js",
     "isEntry": true,
     "src": "resources/js/script.js"
   }
