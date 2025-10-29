@@ -8,17 +8,17 @@
       "_vendor-748890e5.js"
     ]
   },
-  "_vendor_jquery-ab355992.js": {
-    "file": "assets/vendor_jquery-ab355992.js"
+  "_vendor_jquery-7a226957.js": {
+    "file": "assets/vendor_jquery-7a226957.js"
   },
-  "_vendor_lodash-a3de7232.js": {
-    "file": "assets/vendor_lodash-a3de7232.js",
+  "_vendor_lodash-13bb0394.js": {
+    "file": "assets/vendor_lodash-13bb0394.js",
     "imports": [
-      "_vendor_jquery-ab355992.js"
+      "_vendor_jquery-7a226957.js"
     ]
   },
   "resources/css/app.css": {
-    "file": "assets/app-dbe1c140.css",
+    "file": "assets/app-22654453.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
@@ -28,65 +28,80 @@
     "src": "resources/css/style.css"
   },
   "resources/js/app.js": {
-    "file": "assets/app-1b763fe9.js",
+    "file": "assets/app-e7034d1f.js",
     "imports": [
       "resources/js/bootstrap.js",
-      "_vendor_lodash-a3de7232.js",
+      "_vendor_lodash-13bb0394.js",
       "_vendor-748890e5.js",
-      "_vendor_jquery-ab355992.js",
+      "_vendor_jquery-7a226957.js",
       "_vendor_bootstrap-77649348.js"
     ],
     "isEntry": true,
     "src": "resources/js/app.js"
   },
   "resources/js/bootstrap.js": {
-    "file": "assets/bootstrap-0328b386.js",
+    "file": "assets/bootstrap-8dca1ee2.js",
     "imports": [
-      "_vendor_lodash-a3de7232.js",
+      "_vendor_lodash-13bb0394.js",
       "_vendor-748890e5.js",
-      "_vendor_jquery-ab355992.js",
+      "_vendor_jquery-7a226957.js",
       "_vendor_bootstrap-77649348.js"
     ],
     "isEntry": true,
     "src": "resources/js/bootstrap.js"
   },
-  "resources/js/modules/hashHandler.js": {
-    "file": "assets/modules_hashHandler-70146484.js",
+  "resources/js/modules/artifacts.js": {
+    "file": "assets/modules_artifacts-194a5d92.js",
     "isDynamicEntry": true,
-    "src": "resources/js/modules/hashHandler.js"
+    "src": "resources/js/modules/artifacts.js"
   },
-  "resources/js/modules/imageHover.js": {
-    "file": "assets/modules_imageHover-b7949f4c.js",
+  "resources/js/modules/discover.js": {
+    "file": "assets/modules_discover-ddff261a.js",
     "isDynamicEntry": true,
-    "src": "resources/js/modules/imageHover.js"
+    "src": "resources/js/modules/discover.js"
   },
-  "resources/js/modules/menuToggle.js": {
-    "file": "assets/modules_menuToggle-b778d334.js",
+  "resources/js/modules/gallery.js": {
+    "file": "assets/modules_gallery-13c6481a.js",
     "isDynamicEntry": true,
-    "src": "resources/js/modules/menuToggle.js"
+    "src": "resources/js/modules/gallery.js"
   },
-  "resources/js/modules/scrollTabs.js": {
-    "file": "assets/modules_scrollTabs-b4ca75a7.js",
-    "imports": [
-      "_vendor_jquery-ab355992.js"
-    ],
+  "resources/js/modules/media.js": {
+    "file": "assets/modules_media-8cab5294.js",
     "isDynamicEntry": true,
-    "src": "resources/js/modules/scrollTabs.js"
+    "src": "resources/js/modules/media.js"
   },
-  "resources/js/modules/search.js": {
-    "file": "assets/modules_search-907599c8.js",
+  "resources/js/modules/merch.js": {
+    "file": "assets/modules_merch-99ae5092.js",
     "isDynamicEntry": true,
-    "src": "resources/js/modules/search.js"
+    "src": "resources/js/modules/merch.js"
+  },
+  "resources/js/modules/shows.js": {
+    "file": "assets/modules_shows-d0bfdb37.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/modules/shows.js"
+  },
+  "resources/js/modules/sounds.js": {
+    "file": "assets/modules_sounds-f569765a.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/modules/sounds.js"
+  },
+  "resources/js/modules/visuals.js": {
+    "file": "assets/modules_visuals-bc4c8160.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/modules/visuals.js"
   },
   "resources/js/script.js": {
     "dynamicImports": [
-      "resources/js/modules/menuToggle.js",
-      "resources/js/modules/imageHover.js",
-      "resources/js/modules/scrollTabs.js",
-      "resources/js/modules/hashHandler.js",
-      "resources/js/modules/search.js"
+      "resources/js/modules/discover.js",
+      "resources/js/modules/sounds.js",
+      "resources/js/modules/shows.js",
+      "resources/js/modules/visuals.js",
+      "resources/js/modules/gallery.js",
+      "resources/js/modules/media.js",
+      "resources/js/modules/merch.js",
+      "resources/js/modules/artifacts.js"
     ],
-    "file": "assets/script-40129947.js",
+    "file": "assets/script-66f35343.js",
     "isEntry": true,
     "src": "resources/js/script.js"
   }
