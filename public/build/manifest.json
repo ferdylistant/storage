@@ -46,7 +46,7 @@
       "resources/js/modules/sounds.js",
       "resources/js/modules/visuals.js"
     ],
-    "file": "assets/app-7984ca73.js",
+    "file": "assets/app-285eddf4.js",
     "imports": [
       "_preload-helper-27b08a06.js",
       "resources/js/bootstrap.js",
@@ -80,7 +80,7 @@
     "src": "resources/js/modules/discover.js"
   },
   "resources/js/modules/gallery.js": {
-    "file": "assets/modules_gallery-50473954.js",
+    "file": "assets/modules_gallery-fd645095.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/gallery.js"
   },
