@@ -26,13 +26,14 @@
     "src": "resources/css/app.css"
   },
   "resources/css/style.css": {
-    "file": "assets/style-eb8a8adc.css",
+    "file": "assets/style-784407cf.css",
     "isEntry": true,
     "src": "resources/css/style.css"
   },
   "resources/js/app.js": {
     "dynamicImports": [
       "resources/js/modules/artifacts.js",
+      "resources/js/modules/contact.js",
       "resources/js/modules/discover.js",
       "resources/js/modules/gallery.js",
       "resources/js/modules/hashHandler.js",
@@ -46,7 +47,7 @@
       "resources/js/modules/sounds.js",
       "resources/js/modules/visuals.js"
     ],
-    "file": "assets/app-f49bdb67.js",
+    "file": "assets/app-6a226e25.js",
     "imports": [
       "_preload-helper-27b08a06.js",
       "resources/js/bootstrap.js",
@@ -73,6 +74,11 @@
     "file": "assets/modules_artifacts-194a5d92.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/artifacts.js"
+  },
+  "resources/js/modules/contact.js": {
+    "file": "assets/modules_contact-dfe9337e.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/modules/contact.js"
   },
   "resources/js/modules/discover.js": {
     "file": "assets/modules_discover-ddff261a.js",
@@ -118,7 +124,7 @@
     "src": "resources/js/modules/scrollTabs.js"
   },
   "resources/js/modules/search.js": {
-    "file": "assets/modules_search-907599c8.js",
+    "file": "assets/modules_search-43755236.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/search.js"
   },
@@ -145,7 +151,7 @@
       "resources/js/modules/hashHandler.js",
       "resources/js/modules/search.js"
     ],
-    "file": "assets/script-b439fc5a.js",
+    "file": "assets/script-733df686.js",
     "imports": [
       "_preload-helper-27b08a06.js"
     ],
