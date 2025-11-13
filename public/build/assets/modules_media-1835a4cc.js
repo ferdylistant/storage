@@ -1,1 +1,0 @@
-async function t(t,e){try{const n=await fetch(window.location.origin+"/tab/media",{headers:{"X-Requested-With":"XMLHttpRequest"}}),o=await n.json();$("#media").html(o.html);const i=function(t,e){return debounce(()=>{"function"==typeof t&&t(),"function"==typeof e&&e()},150)}(t,e);setTimeout(i,100)}catch(n){}}export{t as initMedia};

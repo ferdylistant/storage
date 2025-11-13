@@ -47,7 +47,7 @@
       "resources/js/modules/sounds.js",
       "resources/js/modules/visuals.js"
     ],
-    "file": "assets/app-0c9e288f.js",
+    "file": "assets/app-acd24934.js",
     "imports": [
       "_preload-helper-27b08a06.js",
       "resources/js/bootstrap.js",
@@ -101,7 +101,7 @@
     "src": "resources/js/modules/imageHover.js"
   },
   "resources/js/modules/media.js": {
-    "file": "assets/modules_media-1835a4cc.js",
+    "file": "assets/modules_media-100d6d6a.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/media.js"
   },
@@ -134,7 +134,7 @@
     "src": "resources/js/modules/shows.js"
   },
   "resources/js/modules/sounds.js": {
-    "file": "assets/modules_sounds-f1481edb.js",
+    "file": "assets/modules_sounds-2ad504f5.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/sounds.js"
   },
