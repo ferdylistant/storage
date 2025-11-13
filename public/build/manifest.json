@@ -47,7 +47,7 @@
       "resources/js/modules/sounds.js",
       "resources/js/modules/visuals.js"
     ],
-    "file": "assets/app-6a226e25.js",
+    "file": "assets/app-0c9e288f.js",
     "imports": [
       "_preload-helper-27b08a06.js",
       "resources/js/bootstrap.js",
@@ -134,7 +134,7 @@
     "src": "resources/js/modules/shows.js"
   },
   "resources/js/modules/sounds.js": {
-    "file": "assets/modules_sounds-f569765a.js",
+    "file": "assets/modules_sounds-f1481edb.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/sounds.js"
   },
