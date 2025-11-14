@@ -47,7 +47,7 @@
       "resources/js/modules/sounds.js",
       "resources/js/modules/visuals.js"
     ],
-    "file": "assets/app-ae2c9cd7.js",
+    "file": "assets/app-f392f617.js",
     "imports": [
       "_preload-helper-27b08a06.js",
       "resources/js/bootstrap.js",
@@ -101,7 +101,7 @@
     "src": "resources/js/modules/imageHover.js"
   },
   "resources/js/modules/media.js": {
-    "file": "assets/modules_media-1637c1d1.js",
+    "file": "assets/modules_media-b6b46b06.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/media.js"
   },
