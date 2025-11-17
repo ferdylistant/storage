@@ -151,11 +151,16 @@
       "resources/js/modules/hashHandler.js",
       "resources/js/modules/search.js"
     ],
-    "file": "assets/script-733df686.js",
+    "file": "assets/script-3804bfe3.js",
     "imports": [
       "_preload-helper-27b08a06.js"
     ],
     "isEntry": true,
     "src": "resources/js/script.js"
+  },
+  "resources/js/service-worker-handler.js": {
+    "file": "assets/service-worker-handler-e8aa5296.js",
+    "isEntry": true,
+    "src": "resources/js/service-worker-handler.js"
   }
 }
