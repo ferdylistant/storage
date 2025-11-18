@@ -70,6 +70,11 @@
     "isEntry": true,
     "src": "resources/js/bootstrap.js"
   },
+  "resources/js/config.js": {
+    "file": "assets/config-6261a6b1.js",
+    "isEntry": true,
+    "src": "resources/js/config.js"
+  },
   "resources/js/modules/artifacts.js": {
     "file": "assets/modules_artifacts-194a5d92.js",
     "isDynamicEntry": true,
@@ -142,6 +147,11 @@
     "file": "assets/modules_visuals-402d43d8.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/visuals.js"
+  },
+  "resources/js/schema.js": {
+    "file": "assets/schema-8c0d4952.js",
+    "isEntry": true,
+    "src": "resources/js/schema.js"
   },
   "resources/js/script.js": {
     "dynamicImports": [
