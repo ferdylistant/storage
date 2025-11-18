@@ -71,7 +71,10 @@
     "src": "resources/js/bootstrap.js"
   },
   "resources/js/config.js": {
-    "file": "assets/config-cd52b679.js",
+    "file": "assets/config-7d29198c.js",
+    "imports": [
+      "_vendor-748890e5.js"
+    ],
     "isEntry": true,
     "src": "resources/js/config.js"
   },
