@@ -71,7 +71,7 @@
     "src": "resources/js/bootstrap.js"
   },
   "resources/js/config.js": {
-    "file": "assets/config-a49480c2.js",
+    "file": "assets/config-8388ba0a.js",
     "isEntry": true,
     "src": "resources/js/config.js"
   },
@@ -161,7 +161,7 @@
       "resources/js/modules/hashHandler.js",
       "resources/js/modules/search.js"
     ],
-    "file": "assets/script-548699c9.js",
+    "file": "assets/script-3804bfe3.js",
     "imports": [
       "_preload-helper-27b08a06.js"
     ],
