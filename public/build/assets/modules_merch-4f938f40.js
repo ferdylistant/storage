@@ -1,0 +1,1 @@
+async function t(t,e){try{const n=await fetch(window.location.origin+"/tab/merch",{headers:{"X-Requested-With":"XMLHttpRequest"}}),o=await n.json();$("#merch").html(o.html);if(!document.querySelector(".tab-content"))return;const c=function(t,e){return debounce(()=>{"function"==typeof t&&t(),"function"==typeof e&&e()},150)}(t,e);setTimeout(c,100)}catch(n){}}export{t as initMerch};

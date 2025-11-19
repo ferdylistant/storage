@@ -47,7 +47,7 @@
       "resources/js/modules/sounds.js",
       "resources/js/modules/visuals.js"
     ],
-    "file": "assets/app-6303fc23.js",
+    "file": "assets/app-8775ec7b.js",
     "imports": [
       "_preload-helper-27b08a06.js",
       "resources/js/bootstrap.js",
@@ -76,7 +76,7 @@
     "src": "resources/js/config.js"
   },
   "resources/js/modules/artifacts.js": {
-    "file": "assets/modules_artifacts-194a5d92.js",
+    "file": "assets/modules_artifacts-20e97c9c.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/artifacts.js"
   },
@@ -116,7 +116,7 @@
     "src": "resources/js/modules/menuToggle.js"
   },
   "resources/js/modules/merch.js": {
-    "file": "assets/modules_merch-99ae5092.js",
+    "file": "assets/modules_merch-4f938f40.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/merch.js"
   },
