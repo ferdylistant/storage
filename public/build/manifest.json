@@ -47,7 +47,7 @@
       "resources/js/modules/sounds.js",
       "resources/js/modules/visuals.js"
     ],
-    "file": "assets/app-e0d612c3.js",
+    "file": "assets/app-c47f6305.js",
     "imports": [
       "_preload-helper-27b08a06.js",
       "resources/js/bootstrap.js",
@@ -129,7 +129,7 @@
     "src": "resources/js/modules/scrollTabs.js"
   },
   "resources/js/modules/search.js": {
-    "file": "assets/modules_search-43755236.js",
+    "file": "assets/modules_search-f0134b55.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/search.js"
   },
@@ -161,7 +161,7 @@
       "resources/js/modules/hashHandler.js",
       "resources/js/modules/search.js"
     ],
-    "file": "assets/script-c8e4f9b1.js",
+    "file": "assets/script-13ffb1e8.js",
     "imports": [
       "_preload-helper-27b08a06.js"
     ],
