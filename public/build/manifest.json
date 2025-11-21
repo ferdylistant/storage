@@ -21,12 +21,12 @@
     ]
   },
   "resources/css/app.css": {
-    "file": "assets/app-28df314d.css",
+    "file": "assets/app-990b8f68.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
   "resources/css/style.css": {
-    "file": "assets/style-427b94aa.css",
+    "file": "assets/style-52cb5c55.css",
     "isEntry": true,
     "src": "resources/css/style.css"
   },
