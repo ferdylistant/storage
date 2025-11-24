@@ -26,7 +26,7 @@
     "src": "resources/css/app.css"
   },
   "resources/css/style.css": {
-    "file": "assets/style-6b5b7302.css",
+    "file": "assets/style-68347aa8.css",
     "isEntry": true,
     "src": "resources/css/style.css"
   },
@@ -47,7 +47,7 @@
       "resources/js/modules/sounds.js",
       "resources/js/modules/visuals.js"
     ],
-    "file": "assets/app-aef5af57.js",
+    "file": "assets/app-e6f3f831.js",
     "imports": [
       "_preload-helper-27b08a06.js",
       "resources/js/bootstrap.js",
@@ -91,7 +91,7 @@
     "src": "resources/js/modules/discover.js"
   },
   "resources/js/modules/gallery.js": {
-    "file": "assets/modules_gallery-1924d574.js",
+    "file": "assets/modules_gallery-77e77257.js",
     "isDynamicEntry": true,
     "src": "resources/js/modules/gallery.js"
   },
