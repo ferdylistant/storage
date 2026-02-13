@@ -1,1 +1,0 @@
-async function t(t,e){try{const o=await fetch(window.location.origin+"/tab/discover",{headers:{"X-Requested-With":"XMLHttpRequest"}}),n=await o.json();$("#discover").html(n.html);const c=function(t,e){return debounce(()=>{"function"==typeof t&&t(),"function"==typeof e&&e()},150)}(t,e);setTimeout(c,100)}catch(o){}}export{t as initDiscover};

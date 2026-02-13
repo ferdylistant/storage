@@ -1,1 +1,0 @@
-document.addEventListener("DOMContentLoaded",()=>{const e=document.getElementById("schema-holder");if(e)try{const t=JSON.parse(e.dataset.schema),n=document.createElement("script");n.type="application/ld+json",n.textContent=JSON.stringify(t),document.head.appendChild(n)}catch(t){}});

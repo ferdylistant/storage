@@ -1,1 +1,0 @@
-import{_ as o}from"./vendor_lodash-a3de7232.js";import{a as r}from"./vendor-748890e5.js";import{$ as s}from"./vendor_jquery-ab355992.js";import{b as d}from"./vendor_bootstrap-77649348.js";window._=o,window.axios=r,window.axios.defaults.headers.common["X-Requested-With"]="XMLHttpRequest",window.$=window.jQuery=s,window.bootstrap=d;
