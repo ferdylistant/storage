@@ -1,31 +1,510 @@
 {
-  "_vendor-1KPJNrIY.js": {
-    "file": "assets/vendor-1KPJNrIY.js",
-    "name": "vendor"
+  "_@babel-l0sNRNKZ.js": {
+    "file": "assets/@babel-l0sNRNKZ.js",
+    "name": "@babel"
   },
-  "_vendor-motion-CMGlMoRn.js": {
-    "file": "assets/vendor-motion-CMGlMoRn.js",
-    "name": "vendor-motion",
+  "_@inertiajs-rjMT-xR1.js": {
+    "file": "assets/@inertiajs-rjMT-xR1.js",
+    "name": "@inertiajs",
     "imports": [
-      "_vendor-1KPJNrIY.js"
+      "_qs-Eznirbjm.js",
+      "_axios-DpwkIHQ7.js",
+      "_lodash-es-BEYq8Rdu.js",
+      "_react-kxyjmRfh.js",
+      "_react-dom-BMDbHb9Y.js",
+      "_laravel-precognition-DYWZRoo5.js"
     ]
   },
-  "_vendor-three-BvwCCAO-.js": {
-    "file": "assets/vendor-three-BvwCCAO-.js",
-    "name": "vendor-three",
+  "_@mediapipe-l0sNRNKZ.js": {
+    "file": "assets/@mediapipe-l0sNRNKZ.js",
+    "name": "@mediapipe"
+  },
+  "_@monogrid-l0sNRNKZ.js": {
+    "file": "assets/@monogrid-l0sNRNKZ.js",
+    "name": "@monogrid"
+  },
+  "_@radix-ui-DFYv-JdG.js": {
+    "file": "assets/@radix-ui-DFYv-JdG.js",
+    "name": "@radix-ui",
     "imports": [
-      "_vendor-1KPJNrIY.js"
+      "_react-kxyjmRfh.js",
+      "_react-dom-BMDbHb9Y.js",
+      "_react-remove-scroll-C-C-pRmu.js",
+      "_aria-hidden-B0YqPW3N.js"
+    ]
+  },
+  "_@react-three-D3d_fGZz.js": {
+    "file": "assets/@react-three-D3d_fGZz.js",
+    "name": "@react-three",
+    "imports": [
+      "_react-kxyjmRfh.js",
+      "_three-BfegAobx.js",
+      "_react-use-measure-HGpbCUYn.js",
+      "_its-fine-Bk7-tVKS.js",
+      "_scheduler-DJ_kwTHK.js",
+      "_react-dom-BMDbHb9Y.js",
+      "_zustand-D4NrE4Uf.js",
+      "_suspend-react-B9ncA3LG.js"
+    ]
+  },
+  "_@use-gesture-CcDpKpt1.js": {
+    "file": "assets/@use-gesture-CcDpKpt1.js",
+    "name": "@use-gesture",
+    "imports": [
+      "_react-kxyjmRfh.js"
+    ]
+  },
+  "_aria-hidden-B0YqPW3N.js": {
+    "file": "assets/aria-hidden-B0YqPW3N.js",
+    "name": "aria-hidden"
+  },
+  "_axios-DpwkIHQ7.js": {
+    "file": "assets/axios-DpwkIHQ7.js",
+    "name": "axios"
+  },
+  "_bidi-js-l0sNRNKZ.js": {
+    "file": "assets/bidi-js-l0sNRNKZ.js",
+    "name": "bidi-js"
+  },
+  "_call-bind-apply-helpers-CgRtIV3F.js": {
+    "file": "assets/call-bind-apply-helpers-CgRtIV3F.js",
+    "name": "call-bind-apply-helpers",
+    "imports": [
+      "_function-bind-DrnB-baK.js",
+      "_es-errors-DTEWvbA_.js"
+    ]
+  },
+  "_call-bound-BFuuvxwD.js": {
+    "file": "assets/call-bound-BFuuvxwD.js",
+    "name": "call-bound",
+    "imports": [
+      "_get-intrinsic-CmvjCWKB.js",
+      "_call-bind-apply-helpers-CgRtIV3F.js"
+    ]
+  },
+  "_camera-controls-l0sNRNKZ.js": {
+    "file": "assets/camera-controls-l0sNRNKZ.js",
+    "name": "camera-controls"
+  },
+  "_clsx-BeLtu-UY.js": {
+    "file": "assets/clsx-BeLtu-UY.js",
+    "name": "clsx"
+  },
+  "_detect-gpu-l0sNRNKZ.js": {
+    "file": "assets/detect-gpu-l0sNRNKZ.js",
+    "name": "detect-gpu"
+  },
+  "_detect-node-es-l0sNRNKZ.js": {
+    "file": "assets/detect-node-es-l0sNRNKZ.js",
+    "name": "detect-node-es"
+  },
+  "_dunder-proto-C-NosRWg.js": {
+    "file": "assets/dunder-proto-C-NosRWg.js",
+    "name": "dunder-proto",
+    "imports": [
+      "_call-bind-apply-helpers-CgRtIV3F.js",
+      "_gopd-BudZp56J.js"
+    ]
+  },
+  "_es-define-property-F0aoeP8o.js": {
+    "file": "assets/es-define-property-F0aoeP8o.js",
+    "name": "es-define-property"
+  },
+  "_es-errors-DTEWvbA_.js": {
+    "file": "assets/es-errors-DTEWvbA_.js",
+    "name": "es-errors"
+  },
+  "_es-object-atoms-CyiuHMUS.js": {
+    "file": "assets/es-object-atoms-CyiuHMUS.js",
+    "name": "es-object-atoms"
+  },
+  "_framer-motion-DLO5KXgv.js": {
+    "file": "assets/framer-motion-DLO5KXgv.js",
+    "name": "framer-motion",
+    "imports": [
+      "_react-kxyjmRfh.js",
+      "_motion-dom-CkSJ3Qwn.js",
+      "_motion-utils-yNg3p3mV.js"
+    ]
+  },
+  "_function-bind-DrnB-baK.js": {
+    "file": "assets/function-bind-DrnB-baK.js",
+    "name": "function-bind"
+  },
+  "_get-intrinsic-CmvjCWKB.js": {
+    "file": "assets/get-intrinsic-CmvjCWKB.js",
+    "name": "get-intrinsic",
+    "imports": [
+      "_es-object-atoms-CyiuHMUS.js",
+      "_es-errors-DTEWvbA_.js",
+      "_math-intrinsics-pM-JTNwN.js",
+      "_gopd-BudZp56J.js",
+      "_es-define-property-F0aoeP8o.js",
+      "_has-symbols-CRskrF1U.js",
+      "_get-proto-FHEYPq3O.js",
+      "_call-bind-apply-helpers-CgRtIV3F.js",
+      "_function-bind-DrnB-baK.js",
+      "_hasown-CftCayBI.js"
+    ]
+  },
+  "_get-nonce-BYiZHLe3.js": {
+    "file": "assets/get-nonce-BYiZHLe3.js",
+    "name": "get-nonce"
+  },
+  "_get-proto-FHEYPq3O.js": {
+    "file": "assets/get-proto-FHEYPq3O.js",
+    "name": "get-proto",
+    "imports": [
+      "_es-object-atoms-CyiuHMUS.js",
+      "_dunder-proto-C-NosRWg.js"
+    ]
+  },
+  "_gopd-BudZp56J.js": {
+    "file": "assets/gopd-BudZp56J.js",
+    "name": "gopd"
+  },
+  "_has-symbols-CRskrF1U.js": {
+    "file": "assets/has-symbols-CRskrF1U.js",
+    "name": "has-symbols"
+  },
+  "_hasown-CftCayBI.js": {
+    "file": "assets/hasown-CftCayBI.js",
+    "name": "hasown",
+    "imports": [
+      "_function-bind-DrnB-baK.js"
+    ]
+  },
+  "_hls.js-l0sNRNKZ.js": {
+    "file": "assets/hls.js-l0sNRNKZ.js",
+    "name": "hls.js"
+  },
+  "_its-fine-Bk7-tVKS.js": {
+    "file": "assets/its-fine-Bk7-tVKS.js",
+    "name": "its-fine",
+    "imports": [
+      "_react-kxyjmRfh.js"
+    ]
+  },
+  "_laravel-precognition-DYWZRoo5.js": {
+    "file": "assets/laravel-precognition-DYWZRoo5.js",
+    "name": "laravel-precognition",
+    "imports": [
+      "_axios-DpwkIHQ7.js",
+      "_lodash-es-BEYq8Rdu.js"
+    ]
+  },
+  "_lenis-ZebFzGL0.js": {
+    "file": "assets/lenis-ZebFzGL0.js",
+    "name": "lenis"
+  },
+  "_lodash-BORSycTH.js": {
+    "file": "assets/lodash-BORSycTH.js",
+    "name": "lodash",
+    "imports": [
+      "_call-bind-apply-helpers-CgRtIV3F.js"
+    ]
+  },
+  "_lodash-es-BEYq8Rdu.js": {
+    "file": "assets/lodash-es-BEYq8Rdu.js",
+    "name": "lodash-es"
+  },
+  "_lucide-react-BFHCp1Yu.js": {
+    "file": "assets/lucide-react-BFHCp1Yu.js",
+    "name": "lucide-react",
+    "imports": [
+      "_react-kxyjmRfh.js"
+    ]
+  },
+  "_maath-l0sNRNKZ.js": {
+    "file": "assets/maath-l0sNRNKZ.js",
+    "name": "maath"
+  },
+  "_math-intrinsics-pM-JTNwN.js": {
+    "file": "assets/math-intrinsics-pM-JTNwN.js",
+    "name": "math-intrinsics"
+  },
+  "_meshline-l0sNRNKZ.js": {
+    "file": "assets/meshline-l0sNRNKZ.js",
+    "name": "meshline"
+  },
+  "_motion-dom-CkSJ3Qwn.js": {
+    "file": "assets/motion-dom-CkSJ3Qwn.js",
+    "name": "motion-dom",
+    "imports": [
+      "_motion-utils-yNg3p3mV.js"
+    ]
+  },
+  "_motion-utils-yNg3p3mV.js": {
+    "file": "assets/motion-utils-yNg3p3mV.js",
+    "name": "motion-utils"
+  },
+  "_object-inspect--lFQDBnP.js": {
+    "file": "assets/object-inspect--lFQDBnP.js",
+    "name": "object-inspect",
+    "imports": [
+      "_call-bind-apply-helpers-CgRtIV3F.js"
+    ]
+  },
+  "_potpack-l0sNRNKZ.js": {
+    "file": "assets/potpack-l0sNRNKZ.js",
+    "name": "potpack"
+  },
+  "_qs-Eznirbjm.js": {
+    "file": "assets/qs-Eznirbjm.js",
+    "name": "qs",
+    "imports": [
+      "_side-channel-D8zNCuii.js"
+    ]
+  },
+  "_react-dom-BMDbHb9Y.js": {
+    "file": "assets/react-dom-BMDbHb9Y.js",
+    "name": "react-dom",
+    "imports": [
+      "_call-bind-apply-helpers-CgRtIV3F.js",
+      "_scheduler-DJ_kwTHK.js",
+      "_react-kxyjmRfh.js"
+    ]
+  },
+  "_react-icons-Dvtr0IGp.js": {
+    "file": "assets/react-icons-Dvtr0IGp.js",
+    "name": "react-icons",
+    "imports": [
+      "_react-kxyjmRfh.js"
+    ]
+  },
+  "_react-kxyjmRfh.js": {
+    "file": "assets/react-kxyjmRfh.js",
+    "name": "react",
+    "imports": [
+      "_call-bind-apply-helpers-CgRtIV3F.js"
+    ]
+  },
+  "_react-remove-scroll-C-C-pRmu.js": {
+    "file": "assets/react-remove-scroll-C-C-pRmu.js",
+    "name": "react-remove-scroll",
+    "imports": [
+      "_tslib-Bc9CN1Ef.js",
+      "_react-kxyjmRfh.js",
+      "_react-remove-scroll-bar-BNPU-rQO.js",
+      "_use-sidecar-316zJPKI.js",
+      "_use-callback-ref-CjTz_WrX.js",
+      "_react-style-singleton-CMt7cdH_.js"
+    ]
+  },
+  "_react-remove-scroll-bar-BNPU-rQO.js": {
+    "file": "assets/react-remove-scroll-bar-BNPU-rQO.js",
+    "name": "react-remove-scroll-bar",
+    "imports": [
+      "_react-kxyjmRfh.js",
+      "_react-style-singleton-CMt7cdH_.js"
+    ]
+  },
+  "_react-style-singleton-CMt7cdH_.js": {
+    "file": "assets/react-style-singleton-CMt7cdH_.js",
+    "name": "react-style-singleton",
+    "imports": [
+      "_react-kxyjmRfh.js",
+      "_get-nonce-BYiZHLe3.js"
+    ]
+  },
+  "_react-use-measure-HGpbCUYn.js": {
+    "file": "assets/react-use-measure-HGpbCUYn.js",
+    "name": "react-use-measure",
+    "imports": [
+      "_react-kxyjmRfh.js"
+    ]
+  },
+  "_scheduler-DJ_kwTHK.js": {
+    "file": "assets/scheduler-DJ_kwTHK.js",
+    "name": "scheduler",
+    "imports": [
+      "_call-bind-apply-helpers-CgRtIV3F.js"
+    ]
+  },
+  "_side-channel-D8zNCuii.js": {
+    "file": "assets/side-channel-D8zNCuii.js",
+    "name": "side-channel",
+    "imports": [
+      "_es-errors-DTEWvbA_.js",
+      "_object-inspect--lFQDBnP.js",
+      "_side-channel-list-gPKKZrRH.js",
+      "_side-channel-map-Bk8QA3eJ.js",
+      "_side-channel-weakmap-4lNYcsiz.js"
+    ]
+  },
+  "_side-channel-list-gPKKZrRH.js": {
+    "file": "assets/side-channel-list-gPKKZrRH.js",
+    "name": "side-channel-list",
+    "imports": [
+      "_object-inspect--lFQDBnP.js",
+      "_es-errors-DTEWvbA_.js"
+    ]
+  },
+  "_side-channel-map-Bk8QA3eJ.js": {
+    "file": "assets/side-channel-map-Bk8QA3eJ.js",
+    "name": "side-channel-map",
+    "imports": [
+      "_get-intrinsic-CmvjCWKB.js",
+      "_call-bound-BFuuvxwD.js",
+      "_object-inspect--lFQDBnP.js",
+      "_es-errors-DTEWvbA_.js"
+    ]
+  },
+  "_side-channel-weakmap-4lNYcsiz.js": {
+    "file": "assets/side-channel-weakmap-4lNYcsiz.js",
+    "name": "side-channel-weakmap",
+    "imports": [
+      "_get-intrinsic-CmvjCWKB.js",
+      "_call-bound-BFuuvxwD.js",
+      "_object-inspect--lFQDBnP.js",
+      "_side-channel-map-Bk8QA3eJ.js",
+      "_es-errors-DTEWvbA_.js"
+    ]
+  },
+  "_stats-gl-l0sNRNKZ.js": {
+    "file": "assets/stats-gl-l0sNRNKZ.js",
+    "name": "stats-gl"
+  },
+  "_stats.js-l0sNRNKZ.js": {
+    "file": "assets/stats.js-l0sNRNKZ.js",
+    "name": "stats.js"
+  },
+  "_suspend-react-B9ncA3LG.js": {
+    "file": "assets/suspend-react-B9ncA3LG.js",
+    "name": "suspend-react"
+  },
+  "_tailwind-merge-CdnLHXED.js": {
+    "file": "assets/tailwind-merge-CdnLHXED.js",
+    "name": "tailwind-merge"
+  },
+  "_three-BfegAobx.js": {
+    "file": "assets/three-BfegAobx.js",
+    "name": "three"
+  },
+  "_three-mesh-bvh-l0sNRNKZ.js": {
+    "file": "assets/three-mesh-bvh-l0sNRNKZ.js",
+    "name": "three-mesh-bvh"
+  },
+  "_three-stdlib-l0sNRNKZ.js": {
+    "file": "assets/three-stdlib-l0sNRNKZ.js",
+    "name": "three-stdlib"
+  },
+  "_troika-three-text-l0sNRNKZ.js": {
+    "file": "assets/troika-three-text-l0sNRNKZ.js",
+    "name": "troika-three-text"
+  },
+  "_troika-three-utils-l0sNRNKZ.js": {
+    "file": "assets/troika-three-utils-l0sNRNKZ.js",
+    "name": "troika-three-utils"
+  },
+  "_troika-worker-utils-l0sNRNKZ.js": {
+    "file": "assets/troika-worker-utils-l0sNRNKZ.js",
+    "name": "troika-worker-utils"
+  },
+  "_tslib-Bc9CN1Ef.js": {
+    "file": "assets/tslib-Bc9CN1Ef.js",
+    "name": "tslib"
+  },
+  "_tunnel-rat-qBGLCuC0.js": {
+    "file": "assets/tunnel-rat-qBGLCuC0.js",
+    "name": "tunnel-rat",
+    "imports": [
+      "_react-kxyjmRfh.js",
+      "_use-sync-external-store-DvOfKcmm.js"
+    ]
+  },
+  "_use-callback-ref-CjTz_WrX.js": {
+    "file": "assets/use-callback-ref-CjTz_WrX.js",
+    "name": "use-callback-ref",
+    "imports": [
+      "_react-kxyjmRfh.js"
+    ]
+  },
+  "_use-sidecar-316zJPKI.js": {
+    "file": "assets/use-sidecar-316zJPKI.js",
+    "name": "use-sidecar",
+    "imports": [
+      "_react-kxyjmRfh.js",
+      "_tslib-Bc9CN1Ef.js"
+    ]
+  },
+  "_use-sync-external-store-DvOfKcmm.js": {
+    "file": "assets/use-sync-external-store-DvOfKcmm.js",
+    "name": "use-sync-external-store",
+    "imports": [
+      "_call-bind-apply-helpers-CgRtIV3F.js",
+      "_react-kxyjmRfh.js"
+    ]
+  },
+  "_webgl-sdf-generator-l0sNRNKZ.js": {
+    "file": "assets/webgl-sdf-generator-l0sNRNKZ.js",
+    "name": "webgl-sdf-generator"
+  },
+  "_zustand-D4NrE4Uf.js": {
+    "file": "assets/zustand-D4NrE4Uf.js",
+    "name": "zustand",
+    "imports": [
+      "_react-kxyjmRfh.js",
+      "_use-sync-external-store-DvOfKcmm.js"
     ]
   },
   "resources/js/app.jsx": {
-    "file": "assets/app-CxnWuDXq.js",
+    "file": "assets/app-DaMp-hLQ.js",
     "name": "app",
     "src": "resources/js/app.jsx",
     "isEntry": true,
     "imports": [
-      "_vendor-1KPJNrIY.js",
-      "_vendor-motion-CMGlMoRn.js",
-      "_vendor-three-BvwCCAO-.js"
+      "_react-kxyjmRfh.js",
+      "_lenis-ZebFzGL0.js",
+      "_@inertiajs-rjMT-xR1.js",
+      "_motion-dom-CkSJ3Qwn.js",
+      "_framer-motion-DLO5KXgv.js",
+      "_react-icons-Dvtr0IGp.js",
+      "_@radix-ui-DFYv-JdG.js",
+      "_clsx-BeLtu-UY.js",
+      "_tailwind-merge-CdnLHXED.js",
+      "_lucide-react-BFHCp1Yu.js",
+      "_react-dom-BMDbHb9Y.js",
+      "_@react-three-D3d_fGZz.js",
+      "_three-BfegAobx.js",
+      "_lodash-BORSycTH.js",
+      "_axios-DpwkIHQ7.js",
+      "_call-bind-apply-helpers-CgRtIV3F.js",
+      "_function-bind-DrnB-baK.js",
+      "_es-errors-DTEWvbA_.js",
+      "_qs-Eznirbjm.js",
+      "_side-channel-D8zNCuii.js",
+      "_object-inspect--lFQDBnP.js",
+      "_side-channel-list-gPKKZrRH.js",
+      "_side-channel-map-Bk8QA3eJ.js",
+      "_get-intrinsic-CmvjCWKB.js",
+      "_es-object-atoms-CyiuHMUS.js",
+      "_math-intrinsics-pM-JTNwN.js",
+      "_gopd-BudZp56J.js",
+      "_es-define-property-F0aoeP8o.js",
+      "_has-symbols-CRskrF1U.js",
+      "_get-proto-FHEYPq3O.js",
+      "_dunder-proto-C-NosRWg.js",
+      "_hasown-CftCayBI.js",
+      "_call-bound-BFuuvxwD.js",
+      "_side-channel-weakmap-4lNYcsiz.js",
+      "_lodash-es-BEYq8Rdu.js",
+      "_laravel-precognition-DYWZRoo5.js",
+      "_motion-utils-yNg3p3mV.js",
+      "_react-remove-scroll-C-C-pRmu.js",
+      "_tslib-Bc9CN1Ef.js",
+      "_react-remove-scroll-bar-BNPU-rQO.js",
+      "_react-style-singleton-CMt7cdH_.js",
+      "_get-nonce-BYiZHLe3.js",
+      "_use-sidecar-316zJPKI.js",
+      "_use-callback-ref-CjTz_WrX.js",
+      "_aria-hidden-B0YqPW3N.js",
+      "_scheduler-DJ_kwTHK.js",
+      "_react-use-measure-HGpbCUYn.js",
+      "_its-fine-Bk7-tVKS.js",
+      "_zustand-D4NrE4Uf.js",
+      "_use-sync-external-store-DvOfKcmm.js",
+      "_suspend-react-B9ncA3LG.js"
     ],
     "css": [
       "assets/app-CpKJwHUB.css"
