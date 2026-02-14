@@ -1,0 +1,1 @@
+import{r as t,M as e,f as r,h as s}from"./app-BFWl4mSz.js";function u(u){const a=t.useRef(0),{isStatic:n}=t.useContext(e);t.useEffect(()=>{if(n)return;const t=({timestamp:t,delta:e})=>{a.current||(a.current=t),u(t-a.current,e)};return r.update(t,!0),()=>s(t)},[u])}export{u};

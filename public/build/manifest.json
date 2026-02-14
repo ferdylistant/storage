@@ -1,344 +1,344 @@
 {
-  "_LazyImage-qxGNfmXE.js": {
-    "file": "assets/LazyImage-qxGNfmXE.js",
+  "_LazyImage-iQ9soVxt.js": {
+    "file": "assets/LazyImage-iQ9soVxt.js",
     "name": "LazyImage",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_Lightbox-CeTw02vp.js": {
-    "file": "assets/Lightbox-CeTw02vp.js",
+  "_Lightbox-D64vCXZe.js": {
+    "file": "assets/Lightbox-D64vCXZe.js",
     "name": "Lightbox",
     "imports": [
       "resources/js/app.jsx",
-      "_scroll-area-OCli0LJo.js"
+      "_scroll-area-rOf3uPkv.js"
     ]
   },
-  "_LinkAnimationHover-DQXy4law.js": {
-    "file": "assets/LinkAnimationHover-DQXy4law.js",
+  "_LinkAnimationHover-6avvl8UE.js": {
+    "file": "assets/LinkAnimationHover-6avvl8UE.js",
     "name": "LinkAnimationHover",
     "imports": [
       "resources/js/app.jsx",
-      "_index-DD87_Bwa.js"
+      "_index-Du-xYUm7.js"
     ]
   },
-  "_Seo-BUWiBaTc.js": {
-    "file": "assets/Seo-BUWiBaTc.js",
+  "_Seo-CiUbt0kS.js": {
+    "file": "assets/Seo-CiUbt0kS.js",
     "name": "Seo",
     "imports": [
       "resources/js/app.jsx",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js",
-      "_use-animation-frame-6TP8DkN9.js",
-      "_interactionGate-D55eMNgH.js",
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js",
+      "_use-animation-frame-DHTZ5gQZ.js",
+      "_interactionGate-CuN_vuu2.js",
       "resources/js/Pages/partials/Footer.jsx"
     ]
   },
-  "_createLucideIcon-FIXYju-R.js": {
-    "file": "assets/createLucideIcon-FIXYju-R.js",
+  "_createLucideIcon-p_Bm3mw-.js": {
+    "file": "assets/createLucideIcon-p_Bm3mw-.js",
     "name": "createLucideIcon",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_index-DD87_Bwa.js": {
-    "file": "assets/index-DD87_Bwa.js",
+  "_index-Du-xYUm7.js": {
+    "file": "assets/index-Du-xYUm7.js",
     "name": "index",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_interactionGate-D55eMNgH.js": {
-    "file": "assets/interactionGate-D55eMNgH.js",
+  "_interactionGate-CuN_vuu2.js": {
+    "file": "assets/interactionGate-CuN_vuu2.js",
     "name": "interactionGate",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_lenis-DSjdrjNP.js": {
-    "file": "assets/lenis-DSjdrjNP.js",
+  "_lenis-Dfy2U6H-.js": {
+    "file": "assets/lenis-Dfy2U6H-.js",
     "name": "lenis",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_scroll-area-OCli0LJo.js": {
-    "file": "assets/scroll-area-OCli0LJo.js",
+  "_scroll-area-rOf3uPkv.js": {
+    "file": "assets/scroll-area-rOf3uPkv.js",
     "name": "scroll-area",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_use-animation-frame-6TP8DkN9.js": {
-    "file": "assets/use-animation-frame-6TP8DkN9.js",
+  "_use-animation-frame-DHTZ5gQZ.js": {
+    "file": "assets/use-animation-frame-DHTZ5gQZ.js",
     "name": "use-animation-frame",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_use-spring-BappkeqJ.js": {
-    "file": "assets/use-spring-BappkeqJ.js",
+  "_use-spring-J1saKPVg.js": {
+    "file": "assets/use-spring-J1saKPVg.js",
     "name": "use-spring",
     "imports": [
       "resources/js/app.jsx",
-      "_use-transform-NcrbHpYx.js"
+      "_use-transform-BPdV50Xa.js"
     ]
   },
-  "_use-transform-NcrbHpYx.js": {
-    "file": "assets/use-transform-NcrbHpYx.js",
+  "_use-transform-BPdV50Xa.js": {
+    "file": "assets/use-transform-BPdV50Xa.js",
     "name": "use-transform",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_useLenisParallax-DC9J0GW_.js": {
-    "file": "assets/useLenisParallax-DC9J0GW_.js",
+  "_useLenisParallax-ZhopzqC5.js": {
+    "file": "assets/useLenisParallax-ZhopzqC5.js",
     "name": "useLenisParallax",
     "imports": [
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js"
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js"
     ]
   },
   "resources/js/Pages/AlbumDetail.jsx": {
-    "file": "assets/AlbumDetail-_-dub5Vk.js",
+    "file": "assets/AlbumDetail-ymraOHd_.js",
     "name": "AlbumDetail",
     "src": "resources/js/Pages/AlbumDetail.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_Seo-BUWiBaTc.js",
-      "_lenis-DSjdrjNP.js",
-      "_index-DD87_Bwa.js",
-      "_scroll-area-OCli0LJo.js",
-      "_createLucideIcon-FIXYju-R.js",
+      "_Seo-CiUbt0kS.js",
+      "_lenis-Dfy2U6H-.js",
+      "_index-Du-xYUm7.js",
+      "_scroll-area-rOf3uPkv.js",
+      "_createLucideIcon-p_Bm3mw-.js",
       "resources/js/Pages/partials/Back.jsx",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js",
-      "_use-animation-frame-6TP8DkN9.js",
-      "_interactionGate-D55eMNgH.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js",
+      "_use-animation-frame-DHTZ5gQZ.js",
+      "_interactionGate-CuN_vuu2.js",
       "resources/js/Pages/partials/Footer.jsx"
     ]
   },
   "resources/js/Pages/ArchivePage.jsx": {
-    "file": "assets/ArchivePage-v7_oMBjX.js",
+    "file": "assets/ArchivePage-W2BWP_jZ.js",
     "name": "ArchivePage",
     "src": "resources/js/Pages/ArchivePage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_Seo-BUWiBaTc.js",
-      "_useLenisParallax-DC9J0GW_.js",
+      "_Seo-CiUbt0kS.js",
+      "_useLenisParallax-ZhopzqC5.js",
       "resources/js/Pages/partials/Back.jsx",
-      "_LazyImage-qxGNfmXE.js",
-      "_Lightbox-CeTw02vp.js",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js",
-      "_use-animation-frame-6TP8DkN9.js",
-      "_interactionGate-D55eMNgH.js",
+      "_LazyImage-iQ9soVxt.js",
+      "_Lightbox-D64vCXZe.js",
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js",
+      "_use-animation-frame-DHTZ5gQZ.js",
+      "_interactionGate-CuN_vuu2.js",
       "resources/js/Pages/partials/Footer.jsx",
-      "_index-DD87_Bwa.js",
-      "_scroll-area-OCli0LJo.js"
+      "_index-Du-xYUm7.js",
+      "_scroll-area-rOf3uPkv.js"
     ]
   },
   "resources/js/Pages/DiscoverPage.jsx": {
-    "file": "assets/DiscoverPage-BLflOKoq.js",
+    "file": "assets/DiscoverPage-Df9XfbqG.js",
     "name": "DiscoverPage",
     "src": "resources/js/Pages/DiscoverPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_Seo-BUWiBaTc.js",
-      "_useLenisParallax-DC9J0GW_.js",
+      "_Seo-CiUbt0kS.js",
+      "_useLenisParallax-ZhopzqC5.js",
       "resources/js/Pages/partials/Back.jsx",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js",
-      "_use-animation-frame-6TP8DkN9.js",
-      "_interactionGate-D55eMNgH.js",
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js",
+      "_use-animation-frame-DHTZ5gQZ.js",
+      "_interactionGate-CuN_vuu2.js",
       "resources/js/Pages/partials/Footer.jsx",
-      "_index-DD87_Bwa.js"
+      "_index-Du-xYUm7.js"
     ]
   },
   "resources/js/Pages/Home.jsx": {
-    "file": "assets/Home-4EenowHT.js",
+    "file": "assets/Home-BFP65d0H.js",
     "name": "Home",
     "src": "resources/js/Pages/Home.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_Seo-BUWiBaTc.js",
+      "_Seo-CiUbt0kS.js",
       "resources/js/Pages/partials/Hero.jsx",
       "resources/js/Pages/partials/Discover.jsx",
       "resources/js/Pages/partials/Albums.jsx",
       "resources/js/Pages/partials/Archive.jsx",
       "resources/js/Pages/partials/LatestNews.jsx",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js",
-      "_use-animation-frame-6TP8DkN9.js",
-      "_interactionGate-D55eMNgH.js",
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js",
+      "_use-animation-frame-DHTZ5gQZ.js",
+      "_interactionGate-CuN_vuu2.js",
       "resources/js/Pages/partials/Footer.jsx",
-      "_index-DD87_Bwa.js",
-      "_useLenisParallax-DC9J0GW_.js",
-      "_LinkAnimationHover-DQXy4law.js",
-      "_LazyImage-qxGNfmXE.js"
+      "_index-Du-xYUm7.js",
+      "_useLenisParallax-ZhopzqC5.js",
+      "_LinkAnimationHover-6avvl8UE.js",
+      "_LazyImage-iQ9soVxt.js"
     ]
   },
   "resources/js/Pages/LatestNews.jsx": {
-    "file": "assets/LatestNews-CxIiFSCg.js",
+    "file": "assets/LatestNews-DANGkh70.js",
     "name": "LatestNews",
     "src": "resources/js/Pages/LatestNews.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_Seo-BUWiBaTc.js",
+      "_Seo-CiUbt0kS.js",
       "resources/js/Pages/partials/NewsCard.jsx",
       "resources/js/Pages/partials/Back.jsx",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js",
-      "_use-animation-frame-6TP8DkN9.js",
-      "_interactionGate-D55eMNgH.js",
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js",
+      "_use-animation-frame-DHTZ5gQZ.js",
+      "_interactionGate-CuN_vuu2.js",
       "resources/js/Pages/partials/Footer.jsx",
-      "_index-DD87_Bwa.js"
+      "_index-Du-xYUm7.js"
     ]
   },
   "resources/js/Pages/LatestShow.jsx": {
-    "file": "assets/LatestShow-C9PvVv74.js",
+    "file": "assets/LatestShow-CG7d2LBO.js",
     "name": "LatestShow",
     "src": "resources/js/Pages/LatestShow.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_Seo-BUWiBaTc.js",
+      "_Seo-CiUbt0kS.js",
       "resources/js/Pages/partials/Back.jsx",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js",
-      "_use-animation-frame-6TP8DkN9.js",
-      "_interactionGate-D55eMNgH.js",
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js",
+      "_use-animation-frame-DHTZ5gQZ.js",
+      "_interactionGate-CuN_vuu2.js",
       "resources/js/Pages/partials/Footer.jsx",
-      "_index-DD87_Bwa.js"
+      "_index-Du-xYUm7.js"
     ]
   },
   "resources/js/Pages/Music.jsx": {
-    "file": "assets/Music-B9Nv65Zu.js",
+    "file": "assets/Music-BBDhdNzR.js",
     "name": "Music",
     "src": "resources/js/Pages/Music.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_Seo-BUWiBaTc.js",
+      "_Seo-CiUbt0kS.js",
       "resources/js/Pages/partials/AlbumSelector.jsx",
       "resources/js/Pages/partials/Back.jsx",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js",
-      "_use-animation-frame-6TP8DkN9.js",
-      "_interactionGate-D55eMNgH.js",
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js",
+      "_use-animation-frame-DHTZ5gQZ.js",
+      "_interactionGate-CuN_vuu2.js",
       "resources/js/Pages/partials/Footer.jsx",
-      "_index-DD87_Bwa.js",
+      "_index-Du-xYUm7.js",
       "resources/js/Pages/partials/AlbumItem.jsx"
     ]
   },
   "resources/js/Pages/StorePage.jsx": {
-    "file": "assets/StorePage-ZlKFnZwk.js",
+    "file": "assets/StorePage-CtChqLF-.js",
     "name": "StorePage",
     "src": "resources/js/Pages/StorePage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_Seo-BUWiBaTc.js",
-      "_LazyImage-qxGNfmXE.js",
+      "_Seo-CiUbt0kS.js",
+      "_LazyImage-iQ9soVxt.js",
       "resources/js/Pages/partials/Back.jsx",
-      "_createLucideIcon-FIXYju-R.js",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js",
-      "_use-animation-frame-6TP8DkN9.js",
-      "_interactionGate-D55eMNgH.js",
+      "_createLucideIcon-p_Bm3mw-.js",
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js",
+      "_use-animation-frame-DHTZ5gQZ.js",
+      "_interactionGate-CuN_vuu2.js",
       "resources/js/Pages/partials/Footer.jsx",
-      "_index-DD87_Bwa.js"
+      "_index-Du-xYUm7.js"
     ]
   },
   "resources/js/Pages/VideoPage.jsx": {
-    "file": "assets/VideoPage-Bk0fyuGI.js",
+    "file": "assets/VideoPage-D1R-S2jE.js",
     "name": "VideoPage",
     "src": "resources/js/Pages/VideoPage.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_Seo-BUWiBaTc.js",
-      "_useLenisParallax-DC9J0GW_.js",
+      "_Seo-CiUbt0kS.js",
+      "_useLenisParallax-ZhopzqC5.js",
       "resources/js/Pages/partials/Back.jsx",
-      "_LazyImage-qxGNfmXE.js",
-      "_Lightbox-CeTw02vp.js",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js",
-      "_use-animation-frame-6TP8DkN9.js",
-      "_interactionGate-D55eMNgH.js",
+      "_LazyImage-iQ9soVxt.js",
+      "_Lightbox-D64vCXZe.js",
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js",
+      "_use-animation-frame-DHTZ5gQZ.js",
+      "_interactionGate-CuN_vuu2.js",
       "resources/js/Pages/partials/Footer.jsx",
-      "_index-DD87_Bwa.js",
-      "_scroll-area-OCli0LJo.js"
+      "_index-Du-xYUm7.js",
+      "_scroll-area-rOf3uPkv.js"
     ]
   },
   "resources/js/Pages/partials/AlbumItem.jsx": {
-    "file": "assets/AlbumItem-CAs1875w.js",
+    "file": "assets/AlbumItem-BiEceLXn.js",
     "name": "AlbumItem",
     "src": "resources/js/Pages/partials/AlbumItem.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_use-transform-NcrbHpYx.js"
+      "_use-transform-BPdV50Xa.js"
     ]
   },
   "resources/js/Pages/partials/AlbumSelector.jsx": {
-    "file": "assets/AlbumSelector-DfKPJGae.js",
+    "file": "assets/AlbumSelector-BcxaMYu-.js",
     "name": "AlbumSelector",
     "src": "resources/js/Pages/partials/AlbumSelector.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/partials/AlbumItem.jsx",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js"
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js"
     ]
   },
   "resources/js/Pages/partials/Albums.jsx": {
-    "file": "assets/Albums-Dr8zJrAX.js",
+    "file": "assets/Albums-Dgt32wGV.js",
     "name": "Albums",
     "src": "resources/js/Pages/partials/Albums.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_index-DD87_Bwa.js",
-      "_lenis-DSjdrjNP.js",
-      "_interactionGate-D55eMNgH.js",
-      "_LinkAnimationHover-DQXy4law.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-animation-frame-6TP8DkN9.js"
+      "_index-Du-xYUm7.js",
+      "_lenis-Dfy2U6H-.js",
+      "_interactionGate-CuN_vuu2.js",
+      "_LinkAnimationHover-6avvl8UE.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-animation-frame-DHTZ5gQZ.js"
     ]
   },
   "resources/js/Pages/partials/Archive.jsx": {
-    "file": "assets/Archive-zl7ALsAR.js",
+    "file": "assets/Archive-C_5txJam.js",
     "name": "Archive",
     "src": "resources/js/Pages/partials/Archive.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_interactionGate-D55eMNgH.js",
-      "_LinkAnimationHover-DQXy4law.js",
-      "_use-transform-NcrbHpYx.js",
-      "_useLenisParallax-DC9J0GW_.js",
-      "_index-DD87_Bwa.js",
-      "_lenis-DSjdrjNP.js"
+      "_interactionGate-CuN_vuu2.js",
+      "_LinkAnimationHover-6avvl8UE.js",
+      "_use-transform-BPdV50Xa.js",
+      "_useLenisParallax-ZhopzqC5.js",
+      "_index-Du-xYUm7.js",
+      "_lenis-Dfy2U6H-.js"
     ]
   },
   "resources/js/Pages/partials/Back.jsx": {
-    "file": "assets/Back-Bu0mcJpN.js",
+    "file": "assets/Back-gpvI-JRD.js",
     "name": "Back",
     "src": "resources/js/Pages/partials/Back.jsx",
     "isDynamicEntry": true,
@@ -347,58 +347,58 @@
     ]
   },
   "resources/js/Pages/partials/Discover.jsx": {
-    "file": "assets/Discover-CqRxjuRe.js",
+    "file": "assets/Discover-Nm1X0xFT.js",
     "name": "Discover",
     "src": "resources/js/Pages/partials/Discover.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_lenis-DSjdrjNP.js",
-      "_LinkAnimationHover-DQXy4law.js",
-      "_use-transform-NcrbHpYx.js",
-      "_index-DD87_Bwa.js"
+      "_lenis-Dfy2U6H-.js",
+      "_LinkAnimationHover-6avvl8UE.js",
+      "_use-transform-BPdV50Xa.js",
+      "_index-Du-xYUm7.js"
     ]
   },
   "resources/js/Pages/partials/Footer.jsx": {
-    "file": "assets/Footer-CjFpv4C-.js",
+    "file": "assets/Footer-DsCXm7JY.js",
     "name": "Footer",
     "src": "resources/js/Pages/partials/Footer.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_index-DD87_Bwa.js",
-      "_lenis-DSjdrjNP.js",
-      "_use-transform-NcrbHpYx.js"
+      "_index-Du-xYUm7.js",
+      "_lenis-Dfy2U6H-.js",
+      "_use-transform-BPdV50Xa.js"
     ]
   },
   "resources/js/Pages/partials/Hero.jsx": {
-    "file": "assets/Hero-Qlfm_zE8.js",
+    "file": "assets/Hero-haBytAO7.js",
     "name": "Hero",
     "src": "resources/js/Pages/partials/Hero.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_lenis-DSjdrjNP.js",
-      "_useLenisParallax-DC9J0GW_.js",
-      "_interactionGate-D55eMNgH.js",
-      "_use-transform-NcrbHpYx.js",
-      "_use-spring-BappkeqJ.js"
+      "_lenis-Dfy2U6H-.js",
+      "_useLenisParallax-ZhopzqC5.js",
+      "_interactionGate-CuN_vuu2.js",
+      "_use-transform-BPdV50Xa.js",
+      "_use-spring-J1saKPVg.js"
     ]
   },
   "resources/js/Pages/partials/LatestNews.jsx": {
-    "file": "assets/LatestNews-BI2WNCpX.js",
+    "file": "assets/LatestNews-CWQ3WvoJ.js",
     "name": "LatestNews",
     "src": "resources/js/Pages/partials/LatestNews.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_LinkAnimationHover-DQXy4law.js",
-      "_LazyImage-qxGNfmXE.js",
-      "_index-DD87_Bwa.js"
+      "_LinkAnimationHover-6avvl8UE.js",
+      "_LazyImage-iQ9soVxt.js",
+      "_index-Du-xYUm7.js"
     ]
   },
   "resources/js/Pages/partials/NewsCard.jsx": {
-    "file": "assets/NewsCard-DqOJkshW.js",
+    "file": "assets/NewsCard-CSIQfKUs.js",
     "name": "NewsCard",
     "src": "resources/js/Pages/partials/NewsCard.jsx",
     "isDynamicEntry": true,
@@ -407,7 +407,7 @@
     ]
   },
   "resources/js/Pages/partials/Video.jsx": {
-    "file": "assets/Video-S-Rb59Pc.js",
+    "file": "assets/Video-CKQ6CD82.js",
     "name": "Video",
     "src": "resources/js/Pages/partials/Video.jsx",
     "isDynamicEntry": true,
@@ -416,7 +416,7 @@
     ]
   },
   "resources/js/app.jsx": {
-    "file": "assets/app-C-VT2Vy2.js",
+    "file": "assets/app-BFWl4mSz.js",
     "name": "app",
     "src": "resources/js/app.jsx",
     "isEntry": true,
