@@ -18,7 +18,7 @@
     ]
   },
   "resources/js/Components/CentralOrb.jsx": {
-    "file": "assets/CentralOrb-DT7rJhRA.js",
+    "file": "assets/CentralOrb-BTW-eSZ0.js",
     "name": "CentralOrb",
     "src": "resources/js/Components/CentralOrb.jsx",
     "isDynamicEntry": true,
@@ -30,7 +30,7 @@
     ]
   },
   "resources/js/app.jsx": {
-    "file": "assets/app-Bzx_HB0c.js",
+    "file": "assets/app-Cge1eek9.js",
     "name": "app",
     "src": "resources/js/app.jsx",
     "isEntry": true,
@@ -43,7 +43,7 @@
       "resources/js/Components/CentralOrb.jsx"
     ],
     "css": [
-      "assets/app-DNEQQTJg.css"
+      "assets/app-CtSZJCuD.css"
     ]
   }
 }
