@@ -1,31 +1,46 @@
 {
-  "_vendor-1KPJNrIY.js": {
-    "file": "assets/vendor-1KPJNrIY.js",
+  "_vendor-G-zzvovP.js": {
+    "file": "assets/vendor-G-zzvovP.js",
     "name": "vendor"
   },
-  "_vendor-motion-CMGlMoRn.js": {
-    "file": "assets/vendor-motion-CMGlMoRn.js",
+  "_vendor-motion-D2I7Sj5r.js": {
+    "file": "assets/vendor-motion-D2I7Sj5r.js",
     "name": "vendor-motion",
     "imports": [
-      "_vendor-1KPJNrIY.js"
+      "_vendor-G-zzvovP.js"
     ]
   },
-  "_vendor-three-BvwCCAO-.js": {
-    "file": "assets/vendor-three-BvwCCAO-.js",
+  "_vendor-three-BkykWfjE.js": {
+    "file": "assets/vendor-three-BkykWfjE.js",
     "name": "vendor-three",
     "imports": [
-      "_vendor-1KPJNrIY.js"
+      "_vendor-G-zzvovP.js"
+    ]
+  },
+  "resources/js/Components/CentralOrb.jsx": {
+    "file": "assets/CentralOrb-DT7rJhRA.js",
+    "name": "CentralOrb",
+    "src": "resources/js/Components/CentralOrb.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-G-zzvovP.js",
+      "resources/js/app.jsx",
+      "_vendor-three-BkykWfjE.js",
+      "_vendor-motion-D2I7Sj5r.js"
     ]
   },
   "resources/js/app.jsx": {
-    "file": "assets/app-CI9PFOQV.js",
+    "file": "assets/app-Bzx_HB0c.js",
     "name": "app",
     "src": "resources/js/app.jsx",
     "isEntry": true,
     "imports": [
-      "_vendor-1KPJNrIY.js",
-      "_vendor-motion-CMGlMoRn.js",
-      "_vendor-three-BvwCCAO-.js"
+      "_vendor-G-zzvovP.js",
+      "_vendor-motion-D2I7Sj5r.js",
+      "_vendor-three-BkykWfjE.js"
+    ],
+    "dynamicImports": [
+      "resources/js/Components/CentralOrb.jsx"
     ],
     "css": [
       "assets/app-DNEQQTJg.css"
