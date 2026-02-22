@@ -1,34 +1,43 @@
 {
-  "_vendor-CI3xQQ1W.js": {
-    "file": "assets/vendor-CI3xQQ1W.js",
+  "_vendor-fnpmA74n.js": {
+    "file": "assets/vendor-fnpmA74n.js",
     "name": "vendor"
   },
-  "_vendor-motion-Bi8_9i5h.js": {
-    "file": "assets/vendor-motion-Bi8_9i5h.js",
+  "_vendor-motion-DmADdB1E.js": {
+    "file": "assets/vendor-motion-DmADdB1E.js",
     "name": "vendor-motion",
     "imports": [
-      "_vendor-CI3xQQ1W.js"
+      "_vendor-fnpmA74n.js"
     ]
   },
-  "_vendor-three-BMVuZ98S.js": {
-    "file": "assets/vendor-three-BMVuZ98S.js",
+  "_vendor-three-CAjzAALM.js": {
+    "file": "assets/vendor-three-CAjzAALM.js",
     "name": "vendor-three",
     "imports": [
-      "_vendor-CI3xQQ1W.js"
+      "_vendor-fnpmA74n.js"
     ]
   },
   "resources/js/app.jsx": {
-    "file": "assets/app-Dl3OkLjh.js",
+    "file": "assets/app-DMBL_WzI.js",
     "name": "app",
     "src": "resources/js/app.jsx",
     "isEntry": true,
     "imports": [
-      "_vendor-CI3xQQ1W.js",
-      "_vendor-motion-Bi8_9i5h.js",
-      "_vendor-three-BMVuZ98S.js"
+      "_vendor-three-CAjzAALM.js",
+      "_vendor-fnpmA74n.js",
+      "_vendor-motion-DmADdB1E.js"
+    ],
+    "dynamicImports": [
+      "resources/js/bootstrap/gtm.js"
     ],
     "css": [
-      "assets/app-Cvr7MFMl.css"
+      "assets/app-CCKXtR29.css"
     ]
+  },
+  "resources/js/bootstrap/gtm.js": {
+    "file": "assets/gtm-wog0xOxp.js",
+    "name": "gtm",
+    "src": "resources/js/bootstrap/gtm.js",
+    "isDynamicEntry": true
   }
 }

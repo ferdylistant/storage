@@ -1,0 +1,1 @@
+function e(e){if(!e)return;window.dataLayer=window.dataLayer||[],window.dataLayer.push({"gtm.start":(new Date).getTime(),event:"gtm.js"});const t=document.getElementsByTagName("script")[0],a=document.createElement("script");a.defer=!0,a.src="https://www.googletagmanager.com/gtm.js?id="+e,t.parentNode.insertBefore(a,t)}export{e as initGTM};
