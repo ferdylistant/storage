@@ -18,7 +18,7 @@
     ]
   },
   "resources/js/app.jsx": {
-    "file": "assets/app-KdRlge2R.js",
+    "file": "assets/app-Ba0x7Pli.js",
     "name": "app",
     "src": "resources/js/app.jsx",
     "isEntry": true,
@@ -31,7 +31,7 @@
       "resources/js/bootstrap/gtm.js"
     ],
     "css": [
-      "assets/app-Se6KAsac.css"
+      "assets/app-vdKE6ZvS.css"
     ]
   },
   "resources/js/bootstrap/gtm.js": {
